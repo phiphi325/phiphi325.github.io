@@ -1,4 +1,4 @@
-[Hux Blog](https://huangxuan.me)
+[C.S. Blog](https://cs.ilife.club)
 ================================
 
 > I never expect this becomes popular.
